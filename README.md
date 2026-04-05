@@ -1,2 +1,5 @@
-# python-exe-1775376623052
-Python to EXE - CartoonRunner3D
+# CartoonRunner3D
+
+Python app compiled to Windows EXE via GitHub Actions.
+
+Le build démarre automatiquement via GitHub Actions.
